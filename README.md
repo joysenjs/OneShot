@@ -53,7 +53,7 @@ curl -sSf https://raw.githubusercontent.com/joysenjs/OneShot/main/installer.sh |
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
- wget https://raw.githubusercontent.com/drygdryg/OneShot/master/vulnwsc.txt
+ wget https://raw.githubusercontent.com/joysenjs/OneShot/main/DeviceList.txt
  ```
 ## Arch Linux
 **Installing requirements**
@@ -66,7 +66,7 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
- wget https://raw.githubusercontent.com/drygdryg/OneShot/master/vulnwsc.txt
+ wget https://raw.githubusercontent.com/joysenjs/OneShot/main/DeviceList.txt
  ```
 ## Alpine Linux
 It can also be used to run on Android devices using [Linux Deploy](https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy)
@@ -85,7 +85,7 @@ Adding the testing repository:
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
- sudo wget https://raw.githubusercontent.com/drygdryg/OneShot/master/vulnwsc.txt
+ sudo wget https://raw.githubusercontent.com/joysenjs/OneShot/main/DeviceList.txt
  ```
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
