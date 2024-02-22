@@ -49,7 +49,7 @@ curl -sSf https://raw.githubusercontent.com/joysenjs/OneShot/main/installer.sh |
 **Getting OneShot**
  ```
  cd ~
- wget https://raw.githubusercontent.com/drygdryg/OneShot/master/oneshot.py
+ wget https://raw.githubusercontent.com/joysenjs/OneShot/main/oneshot.py
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
@@ -62,7 +62,7 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
  ```
 **Getting OneShot**
  ```
- wget https://raw.githubusercontent.com/drygdryg/OneShot/master/oneshot.py
+ wget https://raw.githubusercontent.com/joysenjs/OneShot/main/oneshot.py
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
@@ -81,7 +81,7 @@ Adding the testing repository:
  ```
  **Getting OneShot**
  ```
- sudo wget https://raw.githubusercontent.com/drygdryg/OneShot/master/oneshot.py
+ sudo wget https://raw.githubusercontent.com/joysenjs/OneShot/main/oneshot.py
  ```
 Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
  ```
@@ -92,7 +92,7 @@ Please note that root access is required.
 
 #### Using installer
  ```
- curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash
+ curl -sSf https://raw.githubusercontent.com/joysenjs/OneShot/main/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
@@ -102,7 +102,7 @@ Please note that root access is required.
  ```
 **Getting OneShot**
  ```
- git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+ git clone --depth 1 https://github.com/joysenjs/OneShot OneShot
  ```
 #### Running
  ```
